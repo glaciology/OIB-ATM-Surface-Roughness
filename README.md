@@ -3,8 +3,8 @@
 ## Overview
 
 - This repository uses NASA's Airborne Topographic Mapper (ATM) surface roughness product (ILATM2) to create an ice sheet-wide gridded roughness product, characterize its spatiotemporal patterns, and identify the major climatic controls affecting the observed patterns.
-- See Repository Contents for more information on acquisition, processing, and analyses. 
-- See Background for more info on surface roughness and the OIB ATM. 
+- See 'Repository Contents' for more info on the breakdown of acquisition, processing, and analyses workflows. 
+- See 'Background' for more info on surface roughness and the OIB ATM. 
 
 ## Repository Contents
 
