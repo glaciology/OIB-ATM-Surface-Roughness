@@ -8,7 +8,7 @@
 
 ## Repository Contents
 
-* [**/ILATM2AcquisitionAndPreprocessing**](./ILATM2AcquisitionAndPreprocessing) -  Script for downloading and pre-processing the ILATM2 product.  
+* [**/AcquisitionAndPreprocessing.ipynb**](./ILATM2AcquisitionAndPreprocessing) -  Script for downloading and pre-processing the ILATM2 product.  
 
 * [**/VariographyAndKriging**](./VariographyAndKriging) - Script for interpolating and mapping gridded roughness for each year. 
 
