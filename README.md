@@ -8,15 +8,15 @@
 
 ## Repository Contents
 
-* [**/AcquisitionAndPreprocessing.ipynb**](./ILATM2AcquisitionAndPreprocessing) -  Script for downloading and pre-processing the ILATM2 product.  
+* [**/AcquisitionAndPreprocessingb**](./AcquisitionAndPreprocessing.ipynb) -  Script for downloading and pre-processing the ILATM2 product.  
 
-* [**/VariographyAndKriging**](./VariographyAndKriging) - Script for interpolating and mapping gridded roughness for each year. 
+* [**/VariographyAndKriging**](./VariographyAndKriging.py) - Script for interpolating and mapping gridded roughness for each year. 
 
-* [**/alongTrackAnalyses**](./alongTrackAnalyses) - Script for analyzing the spatial and temporal trends in the along-track data. 
+* [**/alongTrackAnalyses**](./alongTrackAnalyses.ipynb) - Script for analyzing the spatial and temporal trends in the along-track data. 
 
-* [**/FilterILATM2byAWS**](./FilterILATM2byAWS) - Script to prepare ILATM2 for random forest regression, filtering data to within 5 km of on-ice automated weather stations. 
+* [**/FilterILATM2byAWS**](./FilterILATM2byAWS.ipynb) - Script to prepare ILATM2 for random forest regression, filtering data to within 5 km of on-ice automated weather stations. 
 
-* [**/RandomForestRegressionForILATM2AndAWS**](./RandomForestRegressionForILATM2AndAWS) - Script for random forest regression, determining the primary climatic controls on surface roughness. 
+* [**/RandomForestRegressionForILATM2AndAWS**](./RandomForestRegressionForILATM2AndAWS.ipynb) - Script for random forest regression, determining the primary climatic controls on surface roughness. 
 
 ## Background
 
