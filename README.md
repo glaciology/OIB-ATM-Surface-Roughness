@@ -1,4 +1,4 @@
-# 🧊 Kriging + Along-track Analyses of Operation IceBridge's ILATM2
+# 🧊 Surface Roughness Analyses of Operation IceBridge's ILATM2
 
 ## Overview
 
